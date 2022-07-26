@@ -1,4 +1,4 @@
-#lilscheme - a limited Scheme interpreter
+# lilscheme - a limited Scheme interpreter
 
 This is an early attempt at a Scheme interpreter. I've had this lying around on a flash drive
 for a really long time after getting distracted by life, so very little of this is done.
