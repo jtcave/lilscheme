@@ -1,0 +1,12 @@
+* booleans
+* strings
+* variadic functions
+* finish up primitives
+* tail call optimization
+* exceptions
+* use exceptions to not die on every error
+* ports
+* embed a standard library somehow
+* condense small integers inside handles so they take up no heap space
+* differentiate between CreateSymbol and GetInternedSymbol
+* kill util.c
