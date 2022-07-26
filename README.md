@@ -2,9 +2,12 @@
 
 This is an early attempt at a Scheme interpreter. I've had this lying around on a flash drive
 for a really long time after getting distracted by life, so very little of this is done.
-However, I think it's a neat take on
+However, I think what I've done is nice. I'm especially proud of the garbage collector code
+(see mm.c).
 
-There's no tail call optimization, so you are very limited in what you can run.
+Basically the only data types implemented are integers, symbols, cons cells (lists), and
+functions. There is no tail call optimization, which limits the number of runnable Scheme
+programs even further.
 
 ## Build
 
